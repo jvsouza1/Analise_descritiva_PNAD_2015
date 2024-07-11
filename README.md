@@ -8,4 +8,10 @@ O projeto realiza a construção de histogramas, calcular e avaliar medidas de t
 
 A Pesquisa Nacional por Amostra de Domicílios - PNAD investiga anualmente, de forma permanente, características gerais da população, de educação, trabalho, rendimento e habitação e outras, com periodicidade variável, de acordo com as necessidades de informação para o país, como as características sobre migração, fecundidade, nupcialidade, saúde, segurança alimentar, entre outros temas. O levantamento dessas estatísticas constitui, ao longo dos 49 anos de realização da pesquisa, um importante instrumento para formulação, validação e avaliação de políticas orientadas para o desenvolvimento socioeconômico e a melhoria das condições de vida no Brasil.
 
+O arquivo do dataset utilizado encontra-se no repositório como - 'dados.csv'
+
 Fonte dos Dados: https://www.ibge.gov.br/estatisticas/multidominio/ciencia-tecnologia-e-inovacao/9127-pesquisa-nacional-por-amostra-de-domicilios.html?=&t=microdados
+
+## Bibliotecas utilizadas e ferramentas
+
+(pandas, numpy, seaborn, matplotlib.pyplot)
