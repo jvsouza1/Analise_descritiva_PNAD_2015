@@ -12,9 +12,9 @@ O arquivo do dataset utilizado encontra-se no repositório como - 'dados.csv'
 
 ## Os seguintes tratamentos foram realizados nos dados originais:
 
-Foram eliminados os registros onde a Renda era inválida (999 999 999 999); /n
-Foram eliminados os registros onde a Renda era missing;
-Foram considerados somente os registros das Pessoas de Referência de cada domicílio (responsável pelo domicílio).
+Foram eliminados os registros onde a Renda era inválida (999 999 999 999); -
+-Foram eliminados os registros onde a Renda era missing; -
+-Foram considerados somente os registros das Pessoas de Referência de cada domicílio (responsável pelo domicílio).
 
 Fonte dos Dados: https://www.ibge.gov.br/estatisticas/multidominio/ciencia-tecnologia-e-inovacao/9127-pesquisa-nacional-por-amostra-de-domicilios.html?=&t=microdados
 
